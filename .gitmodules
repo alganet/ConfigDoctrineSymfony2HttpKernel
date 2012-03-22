@@ -7,3 +7,6 @@
 [submodule "library/Symfony/Component/Routing"]
 	path = library/Symfony/Component/Routing
 	url = https://github.com/symfony/Routing.git
+[submodule "library/Symfony/Component/EventDispatcher"]
+	path = library/Symfony/Component/EventDispatcher
+	url = https://github.com/symfony/EventDispatcher.git
