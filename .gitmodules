@@ -1,0 +1,9 @@
+[submodule "library/Symfony/Component/HttpKernel"]
+	path = library/Symfony/Component/HttpKernel
+	url = https://github.com/symfony/HttpKernel.git
+[submodule "library/Symfony/Component/HttpFoundation"]
+	path = library/Symfony/Component/HttpFoundation
+	url = https://github.com/symfony/HttpFoundation.git
+[submodule "library/Symfony/Component/Routing"]
+	path = library/Symfony/Component/Routing
+	url = https://github.com/symfony/Routing.git
